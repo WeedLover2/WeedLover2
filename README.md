@@ -14,8 +14,7 @@ as teacher assitant in Educourse are making Django, IoT, Node.js learning module
 
 ###
 
-<img align="right" height="160" src="https://fetchpik.com/images/fetchpik.com-BJxdacmqLn.gif"  />
-
+<img align="right" height="180" src="https://fetchpik.com/images/fetchpik.com-BJxdacmqLn.gif"  />
 
 
 ###
