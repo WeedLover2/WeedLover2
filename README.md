@@ -1,4 +1,4 @@
-<h2 align="left">Sup👋! Welcome To My Github Account</h2>
+<img width="498" height="498" alt="image" src="https://github.com/user-attachments/assets/65abcfde-e2f5-4ba7-afc7-a2edbe18c791" /><h2 align="left">Sup👋! Welcome To My Github Account</h2>
 
 ###
 
@@ -14,7 +14,7 @@ as teacher assitant in Educourse are making Django, IoT, Node.js learning module
 
 ###
 
-<img align="right" height="160" src="https://fetchpik.com/images/fetchpik.com-DxZEbvPmIf.gif"  />
+<img align="right" height="160" src="https://fetchpik.com/images/fetchpik.com-BJxdacmqLn.gif"  />
 
 
 
