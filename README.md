@@ -14,9 +14,8 @@ as teacher assitant in Educourse are making Django, IoT, Node.js learning module
 
 ###
 
-<div align="right">
-  <img src="https://media.tenor.com/your-gif-id.gif" alt="cool reaction gif" width="180"/>
-</div>
+<img align="right" height="160" src="https://fetchpik.com/images/fetchpik.com-DxZEbvPmIf.gif"  />
+
 
 
 ###
