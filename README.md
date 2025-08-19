@@ -13,7 +13,7 @@
 
 ###
 
-<div class="tenor-gif-embed" data-postid="25597870" data-share-method="host" data-aspect-ratio="1" data-width="100%" align="right" height="150"><a href="https://tenor.com/view/umamusumeprettyderby-gif-25597870">Umamusumeprettyderby Sticker</a>from <a href="https://tenor.com/search/umamusumeprettyderby-stickers">Umamusumeprettyderby Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align="right" height="150" src="https://tenor.com/view/umamusumeprettyderby-gif-25597870"  />
 
 ###
 
