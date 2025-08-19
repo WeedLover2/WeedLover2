@@ -13,7 +13,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://tenor.com/view/umamusumeprettyderby-gif-25597870](https://tenor.com/view/umamusumeprettyderby-gif-25597870)"/>
+<img align="right" height="150" src="https://imgflip.com/meme/392156860/Gold-Ship-Sleep"/>
 
 ###
 
