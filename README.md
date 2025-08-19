@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello! My name is Reyhan Tirta Bastian, but most people call me Tian. I'm a newbie developer that specialized in python,  i am currently studying in the Software Developer major also known in Indonesia as Rekayasa Perangkat Lunak (RPL) at SMKN 10 Semarang. Right now, I’m doing my internship in Educourse at Semarang, a coding education startup partnered with Telkom Group. In this internship role, I work as a teacher’s assistant and most of my contributions as teacher assitant are making Django, IoT, Node.js learning modul for beginner level student.</p>
+<p align="left">Hello! My name is Reyhan Tirta Bastian, but most people call me Tian. I'm a newbie developer that specialized in python,  i am currently studying in the Software Developer major also known in Indonesia as Rekayasa Perangkat Lunak (RPL) at SMKN 10 Semarang. Right now, I’m doing my internship in Educourse at Semarang, a coding education startup partnered with Telkom Group. In this internship role, my role in Educourse was a teacher’s assistant and most of my contributions as teacher assitant in Educourse are making Django, IoT, Node.js learning module for starter & beginner level student.</p>
 
 ###
 
