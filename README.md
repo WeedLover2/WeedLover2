@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello! My name is Tian. I'm a beginner developer, sometimes i develop an MERN stack apps where ussally my role inside those MERN stack project was a backend developer or sometimes i develop django apps. I am currently studying Software Development major, also known in Indonesia as Rekayasa Perangkat Lunak (RPL), at SMKN 10 Semarang. Right now, I’m doing my internship at Educourse in Semarang, a coding education startup partnered with Telkom Group. In this internship, my role is as a teacher’s assistant, where I contribute by creating learning modules on Django, IoT, and Node.js for beginner-level students.</p>
+<p align="left">Hello! My name is Tian. I'm a beginner developer, sometimes i develop an MERN stack apps, ussually my role was a backend developer or sometimes i develop django apps. I am currently studying Software Development major, also known in Indonesia as Rekayasa Perangkat Lunak (RPL), at SMKN 10 Semarang. Right now, I’m doing my internship at Educourse in Semarang, a coding education startup partnered with Telkom Group. In this internship, my role is as a teacher’s assistant, where I contribute by creating learning modules on Django, IoT, and Node.js for beginner-level students.</p>
 
 ###
 
