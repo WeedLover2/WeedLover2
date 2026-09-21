@@ -1,4 +1,4 @@
-<h2 align="left">Sup👋! Welcome To My Github Account</h2>
+<h2 align="left">Sometimes i code, sometimes i just lost at nature</h2>
 
 ###
 
