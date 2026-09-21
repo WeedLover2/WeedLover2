@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello! My name is Tian. I'm a beginner developer, sometimes i develop an MERN stack apps, ussually my role was a backend developer or sometimes i develop django apps. I am currently studying Software Development major, also known in Indonesia as Rekayasa Perangkat Lunak (RPL), at SMKN 10 Semarang.</p>
+<p align="left">Hello! My name is Tian. I'm just some average student, sometimes i develop an MERN stack apps, django apps, etc. Ussually my role was a backend developer. I am currently studying Software Development major, also known in Indonesia as Rekayasa Perangkat Lunak (RPL), at SMKN 10 Semarang.</p>
 
 ###
 
