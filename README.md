@@ -1,4 +1,4 @@
-<h2 align="left">Sometimes I code, sometimes I just lost in the mountains (literally).</h2>
+<h2 align="left">Sometimes i code, sometimes i just lost in the mountains (literally).</h2>
 
 ###
 
